@@ -129,3 +129,8 @@ Instead, act with intention in the fiction:
 - *“I push through the locked door—tools in hand.”*
 
 Declare your action. Let the mechanics respond.
+
+### Minimize distractions.
+
+Phones, side conversations, unrelated browsing, and background chatter break immersion and slow the game.  
+Stay present, stay focused, and give the scene—and your fellow players—the attention they deserve.
