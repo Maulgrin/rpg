@@ -13,7 +13,7 @@ Don’t drift into hypotheticals. Describe what your character is actively doing
 ### Think and speak in present tense as your character.
 
 Use **“I draw the blade”** rather than **“I would draw the blade.”**  
-Use **“I push through the alley”** rather than **“I’d like to walk down the alley.”**  
+Use **“I push through the alley”** rather than **“I’d like to walk down the alley.”**
 
 This keeps the fiction alive and immediate.
 
@@ -23,7 +23,7 @@ Trust that everyone at the table—GM and players—is collaborating to create a
 
 ### Stop negotiating dice every turn.
 
-When it’s time to roll, roll.  
+When it’s time to roll, roll.
 
 - Don’t haggle modifiers.  
 - Don’t attempt meta-maneuvers.  
@@ -88,6 +88,11 @@ When portraying NPCs, embody them in the moment.
 - *“I stare you down and fold my arms”* is more engaging than  
   *“He would stare you down.”*
 
+### If you must use a map…
+
+If you must use a map, **do not place any locations, tokens, or NPCs the characters cannot currently see**.  
+Only reveal what is in their line of sight or immediate awareness.
+
 ---
 
 ## Shared Suggestions for Players and Game Masters
@@ -103,7 +108,7 @@ Words that weaken intent or retreat into uncertainty dilute the fiction.
 - *sort of*  
 - *like(ly)*  
 - *probably has*  
-- *maybe / may be*  
+- *maybe / may be*
 
 These create vague, non-committal statements that muddle the narrative.
 
@@ -115,7 +120,7 @@ This is collaborative fiction, not a classroom.
 
 - *Can I/we…?*  
 - *Could I/we…?*  
-- *If I/we…?*  
+- *If I/we…?*
 
 Instead, act with intention in the fiction:
 
