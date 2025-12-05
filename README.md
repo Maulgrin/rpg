@@ -101,7 +101,7 @@ Only reveal what is in their line of sight or immediate awareness.
 
 Words that weaken intent or retreat into uncertainty dilute the fiction.
 
-**Don’t use:**
+**Don’t use: Unless in Character**
 
 - *seems to*  
 - *kind of*  
@@ -116,7 +116,7 @@ These create vague, non-committal statements that muddle the narrative.
 
 This is collaborative fiction, not a classroom.
 
-**Avoid:**
+**Avoid: Unless in Character**
 
 - *Can I/we…?*  
 - *Could I/we…?*  
