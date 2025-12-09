@@ -62,6 +62,8 @@ They are sparks—prompts that inspire roleplay, drama, and consequences. The st
 
 You don’t. Your job is not to solve problems for them. Set the stage, portray the world honestly, and let their choices matter. Challenge them by presenting clear information and real consequences.
 
+Do not over narrate and do not take away player agency.
+
 ### Don’t describe for the characters.
 
 Tell them what the world does, not what they feel, think, or choose.
