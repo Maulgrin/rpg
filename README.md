@@ -19,7 +19,7 @@ This keeps the fiction alive and immediate.
 
 ### Are we playing in a high-trust environment?
 
-Trust that everyone at the table—GM and players—is collaborating to create a great story, not trying to “win.” That trust frees you to act boldly, fail honestly, and stay immersed.
+Trust that everyone at the table. You are collaborating to create a great story, not trying to “win.” That trust frees you to act boldly, fail honestly, and stay immersed.
 
 ### Stop negotiating dice every turn.
 
@@ -52,7 +52,7 @@ Let players make their own decisions. Keep crosstalk low. Give each person space
 ### Note
 
 **The dice are not the game.**  
-They are sparks—prompts that inspire roleplay, drama, and consequences. The story matters more than the numbers.
+They are sparks/prompts that inspire roleplay, drama, and consequences. The story matters more than the numbers.
 
 ---
 
@@ -135,4 +135,4 @@ Declare your action. Let the mechanics respond.
 ### Minimize distractions.
 
 Phones, side conversations, unrelated browsing, and background chatter break immersion and slow the game.  
-Stay present, stay focused, and give the scene—and your fellow players—the attention they deserve.
+Stay present, stay focused, and give the scene and your fellow players the attention they deserve.
