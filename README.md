@@ -43,7 +43,7 @@ Commit to action. Act; don’t workshop.
 
 It’s **your** turn. **Your** choices.
 
-You may consult briefly, but the spotlight belongs to you. Own it.
+You may consult briefly **in character**, but the spotlight belongs to you. Own it.
 
 ### Talk on your turn—not on others’.
 
